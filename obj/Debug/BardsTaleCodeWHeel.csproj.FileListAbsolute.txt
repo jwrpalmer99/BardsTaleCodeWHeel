@@ -1,0 +1,13 @@
+C:\Users\jeremy\source\repos\BardsTaleCodeWHeel\BardsTaleCodeWHeel\obj\Debug\BardsTaleCodeWHeel.csprojAssemblyReference.cache
+C:\Users\jeremy\source\repos\BardsTaleCodeWHeel\BardsTaleCodeWHeel\obj\Debug\BardsTaleCodeWHeel.WheelForm.resources
+C:\Users\jeremy\source\repos\BardsTaleCodeWHeel\BardsTaleCodeWHeel\obj\Debug\BardsTaleCodeWHeel.Properties.Resources.resources
+C:\Users\jeremy\source\repos\BardsTaleCodeWHeel\BardsTaleCodeWHeel\obj\Debug\BardsTaleCodeWHeel.csproj.GenerateResource.cache
+C:\Users\jeremy\source\repos\BardsTaleCodeWHeel\BardsTaleCodeWHeel\obj\Debug\BardsTaleCodeWHeel.csproj.CoreCompileInputs.cache
+C:\Users\jeremy\source\repos\BardsTaleCodeWHeel\BardsTaleCodeWHeel\bin\Debug\BardsTaleCodeWHeel.exe.config
+C:\Users\jeremy\source\repos\BardsTaleCodeWHeel\BardsTaleCodeWHeel\bin\Debug\BardsTaleCodeWHeel.exe
+C:\Users\jeremy\source\repos\BardsTaleCodeWHeel\BardsTaleCodeWHeel\bin\Debug\BardsTaleCodeWHeel.pdb
+C:\Users\jeremy\source\repos\BardsTaleCodeWHeel\BardsTaleCodeWHeel\obj\Debug\BardsTaleCodeWHeel.exe
+C:\Users\jeremy\source\repos\BardsTaleCodeWHeel\BardsTaleCodeWHeel\obj\Debug\BardsTaleCodeWHeel.pdb
+C:\Users\jeremy\source\repos\BardsTaleCodeWHeel\BardsTaleCodeWHeel\bin\Debug\wheelA.png
+C:\Users\jeremy\source\repos\BardsTaleCodeWHeel\BardsTaleCodeWHeel\bin\Debug\wheelB.png
+C:\Users\jeremy\source\repos\BardsTaleCodeWHeel\BardsTaleCodeWHeel\bin\Debug\wheelC.png
